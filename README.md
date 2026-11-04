@@ -76,4 +76,4 @@ Contar livros:
 
 ## Autor
 
-Feito por **[GuilhermeTIFront](https://github.com/GuilhermeTIFront)** como desafio de treino. 🚀
+Feito por **[GuilhermeTIFront](https://github.com/GuilhermeRumoDev)** como desafio de treino. 🚀
